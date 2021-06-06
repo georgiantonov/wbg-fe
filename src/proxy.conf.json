@@ -1,0 +1,12 @@
+{
+  "/map-layers": {
+    "target": "http://localhost:8000/",
+    "secure": true,
+    "changeOrigin": true
+  },
+  "/overlays": {
+    "target": "http://localhost:8000/",
+    "secure": true,
+    "changeOrigin": true
+  }
+}
